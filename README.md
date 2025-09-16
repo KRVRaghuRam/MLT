@@ -5,4 +5,3 @@ When an aircraft goes missing or crashes, timely locating of the aircraft is vit
 
 
 
-app link:https://aircraft-rescue.preview.emergentagent.com/
